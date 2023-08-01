@@ -41,6 +41,7 @@
     "unicorn/consistent-destructuring": "error",
     "unicorn/error-message": "error",
     "unicorn/no-abusive-eslint-disable": "error",
-    "unicorn/no-lonely-if": "error"
+    "unicorn/no-lonely-if": "error",
+    "unicorn/prefer-ternary": "error"
   }
 }
